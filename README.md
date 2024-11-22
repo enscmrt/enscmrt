@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://omnics.in/wp-content/uploads/2024/04/BitKollegen-Blog-Software-Testing.webp" width="500" />
+  <img src="https://omnics.in/wp-content/uploads/2024/04/BitKollegen-Blog-Software-Testing.webp" width="400" />
 </p>
 <h1 align="center">Hi 👋, I'm Enes Cömert</h1>
 <h3 align="center">A passionate Software Test Engineer</h3>
